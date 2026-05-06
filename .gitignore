@@ -3,3 +3,9 @@ checkpoints/
 .env 
 node_modules/ 
 __pycache__/
+app.db
+uploads/
+static/
+dist/
+*.log
+.DS_Store
