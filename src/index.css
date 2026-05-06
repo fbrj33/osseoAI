@@ -1,0 +1,93 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+    --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --color-background: var(--bg-base);
+    --color-foreground: var(--text-primary);
+    --color-card: var(--bg-surface);
+    --color-card-foreground: var(--text-primary);
+    --color-popover: var(--bg-surface);
+    --color-popover-foreground: var(--text-primary);
+    --color-primary: var(--accent);
+    --color-primary-foreground: #ffffff;
+    --color-secondary: var(--bg-card);
+    --color-secondary-foreground: var(--text-primary);
+    --color-muted: var(--bg-card);
+    --color-muted-foreground: var(--text-secondary);
+    --color-accent: var(--bg-card);
+    --color-accent-foreground: var(--text-primary);
+    --color-destructive: oklch(0.577 0.245 27.325);
+    --color-destructive-foreground: #ffffff;
+    --color-border: var(--border);
+    --color-input: var(--bg-card);
+    --color-ring: var(--accent);
+    --radius-lg: 16px;
+    --radius-md: 12px;
+    --radius-sm: 8px;
+}
+
+:root {
+    --bg-base: #0a0a0c;
+    --bg-surface: #16161a;
+    --bg-card: #1e1e24;
+    --text-primary: #f0f0f2;
+    --text-secondary: #a1a1aa;
+    --accent: #3b82f6;
+    --accent-glow: rgba(59, 130, 246, 0.2);
+    --success: #10b981;
+    --warning: #f59e0b;
+    --border: #2d2d35;
+    
+    /* shadcn variables mapping */
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 217.2 91.2% 59.8%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+    --radius: 0.75rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+    box-sizing: border-box;
+  }
+  body {
+    @apply bg-background text-foreground font-sans;
+    background-color: var(--bg-base);
+    color: var(--text-primary);
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-base);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-secondary);
+}

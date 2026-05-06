@@ -1,0 +1,77 @@
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m
+[33m[vite:css] @import must precede all other statements (besides @charset or empty @layer)
+3557|    initial-value: 0;
+3558|  }
+3559|  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+3560|  :root {
+3561|    --bg-base: #0a0a0c;[39m

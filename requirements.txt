@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+torch
+torchvision
+opencv-python-headless
+scikit-image
+numpy
+python-multipart
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+pillow
+pyotp
+qrcode

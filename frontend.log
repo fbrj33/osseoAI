@@ -1,0 +1,21 @@
+
+> osseoai@0.0.1 dev
+> vite --host 127.0.0.1 --port 5173
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m436[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m6:08:55 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mmain.py[22m
+[2m6:09:10 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Reports.tsx, /src/index.css[22m
+[2m6:11:06 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mtsconfig.tsbuildinfo[22m
+[2m6:14:16 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpredictor.py[22m
+[2m6:14:22 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpredictor.py[22m
+[2m6:14:27 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mpredictor.py[22m
+[2m6:14:40 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mmain.py[22m
+[2m6:14:44 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mmain.py[22m
+[2m6:14:47 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mmain.py[22m
+[2m6:14:53 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.tsx, /src/index.css[22m
+[2m6:15:26 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mtsconfig.tsbuildinfo[22m
+[2m6:15:27 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mvite.config.ts.timestamp-1777482927147-d1c513a3379f78.mjs[22m
+[2m6:32:42 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Reports.tsx, /src/index.css[22m
